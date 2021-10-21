@@ -1,10 +1,14 @@
-# Do you want to buy this avocado?
+# Do you want to buy this avocado? 🥑
 
 ## Description
 
 This web page displays a hight definition 4K 3D avocado.
 
 ![](public/DEMO.gif)
+
+## What is react-three-fiber?
+
+React-three-fiber is a React renderer for Three.js on the web and react-native, it is a boost to the speed at which you create 3D models and animations with Three.js
 
 # Getting Started with Create React App
 
