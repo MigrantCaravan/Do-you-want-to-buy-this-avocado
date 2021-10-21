@@ -2,7 +2,7 @@
 
 ## Description
 
-This web page displays a hight definition 4K 3D avocado.
+This web page displays a high definition 4K 3D avocado.
 
 ![](public/DEMO.gif)
 
