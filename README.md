@@ -1,4 +1,4 @@
-# Do you want to buy this avocado? 🥑
+# Do You Want to Buy This Avocado? 🥑
 
 ## Description
 
